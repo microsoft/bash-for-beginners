@@ -1,0 +1,5 @@
+  owner      group    others
+ r  w  x    r  w  x   r  w  x 
+(4)(2)(1)  (4)(2)(1)  (4)(2)(1)
+
+example: chmod 664 script.sh 

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# A script that will ask for a number and print out a message depending on the value. 
+
+read -p "Enter a number: " n
+case $n in
+    ???) 
+        echo "One";;
+    2) 
+        echo "Two";;
+    aa) 
+        echo "Three";;
+    *.txt) 
+        echo "Four";;
+    *) 
+        echo "Other";;
+esac
+    

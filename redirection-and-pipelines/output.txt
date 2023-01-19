@@ -1,0 +1,7 @@
+total 8
+-rw-rw-rw- 1 vscode vscode   0 Jan 17 18:03 error.txt
+-rw-rw-rw- 1 vscode vscode   0 Jan 17 18:10 output.txt
+-rw-rw-rw- 1 vscode vscode 415 Jan 17 17:37 part1.txt
+-rw-rw-rw- 1 vscode vscode 262 Jan 17 17:37 part2.txt
+-rw-rw-rw- 1 vscode vscode   0 Jan 17 17:54 part3.txt
+-rw-rw-rw- 1 vscode vscode   0 Jan 17 17:56 part4.txt

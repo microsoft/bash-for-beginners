@@ -1,0 +1,5 @@
+“Clean code always looks like it was written by someone who cares.”
+― Robert C. Martin, Clean Code
+
+“Don’t Use a Comment When You Can Use a Function or a Variable”
+― Robert C. Martin, Clean Code

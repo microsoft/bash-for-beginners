@@ -1,6 +1,7 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "features": {
-    "ghcr.io/devcontainers/features/azure-cli:1": {}
-  }
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+	"features": {
+	  "ghcr.io/devcontainers/features/azure-cli:1": {}
+	},
+	"postCreateCommand": "bash -i -c '(echo y && echo y) | sudo unminimize; sudo apt install man-db manpages-posix -y'"
 }

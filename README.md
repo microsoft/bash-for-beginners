@@ -39,7 +39,7 @@ Even though we won't cover everything there is to know about this language in th
 
 As the goal of these courses is to help get you up to speed on Bash. The next step after completing the videos is to follow a tutorial! Here are a few of our favorites:
 
-- [Quickstart for Bash in Azure Cloud Shell](https://learn.microsoft.com/azure/cloud-shell/quickstart/](https://aka.ms/QuickStartForBashAzure1)
+- [Quickstart for Bash in Azure Cloud Shell](https://aka.ms/QuickStartForBashAzure1)
 - [Learn to use Bash with the Azure CLI](https://aka.ms/BashWithAzureCLI1)
 - [Create a Linux virtual machine in Azure](https://aka.ms/LinuxVirtualMachineAzure1)
 - [Learn more about GitHub Codespaces Monthly Free Tier](https://aka.ms/GitHubCodespacesBilling1)

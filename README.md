@@ -4,7 +4,7 @@
 
 These Microsoft Developer YouTube series is designed to help get you up to speed on Bash.  
 
-These three series on Channel 9 and YouTube are designed to help get you up to speed on Python. Bash is considered a universal language when it comes to cloud computing and programming. Many languages support Bash commands to pass data and information and when it comes to the Cloud, all platforms support using it to interact with your environment. 
+These three series on Channel 9 and YouTube are designed to help get you up to speed on Bash. Bash is considered a universal language when it comes to cloud computing and programming. Many languages support Bash commands to pass data and information and when it comes to the Cloud, all platforms support using it to interact with your environment. 
 
 Even though we won't cover everything there is to know about this language in this course, we want to make sure we give you the foundation on scripting in Bash. At the end of the course, you'll be able to create your own scripts and automate tasks with the help of Bash. 
 

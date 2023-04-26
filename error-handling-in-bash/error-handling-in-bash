@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Check if user is root
+if [ $(id -u) != 0 ]; then
+    echo "This script must be run as root"
+    exit 1
+fi
+
+# Check if required argument is provided
+if [ -z "$1" ]; then
+    echo "Usage: $0 <filename>"
+    exit 1
+fi
+
+# Check if file exists
+if [ ! -f "$1" ]; then
+    echo "File not found: $1"
+    exit 1
+fi
+
+# Perform some operation on the file
+cat "$1"

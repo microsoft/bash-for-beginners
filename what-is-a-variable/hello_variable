@@ -1,5 +1,7 @@
 #!/bin/bash
 
-# Welcome to your first Bash Script
+#creating a variable
 
-echo 'Hello World!'
+hello_message= 'hello world'
+
+echo $hello_message

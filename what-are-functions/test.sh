@@ -1,18 +1,15 @@
 #!/bin/bash
 
-#testing out a function
+#checking out a function
 
-check_odd(){
-    local sum=2
-    echo "the value of the sum is $sum"
-    if [ $(("$1" + $sum)) -ge 5 ]
-    then
-        echo "the number $1 is correct"
-    else
-        echo "The number $1 is wrong"
-    fi
+check_age() {
+local age=18
+if [ $((age)) -le 17 ]
+then
+    echo "You are not eligible, sorry apply next year";
+else
+    echo " Congrats you are eligible"
+fi
 }
- number=2
 
-check_odd $number
-echo $sum
+check_age $age

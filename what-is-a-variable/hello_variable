@@ -1,5 +1,7 @@
 #!/bin/bash
 
-hello_message='Hello world'
+my_name='abbah divine'
+my_folder=$(pwd)
+my_gender='male'
 
-echo $hello_message
+echo "My name is $my_name, and i am a $my_gender, you could find me at $my_folder"

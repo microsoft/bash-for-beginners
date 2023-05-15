@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#creating a variable
-
-hello_message= 'hello world'
+hello_message='Hello world'
 
 echo $hello_message

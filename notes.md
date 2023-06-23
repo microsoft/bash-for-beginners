@@ -1,0 +1,1 @@
+Using wildcard helps to find files. Example to find a file with uppercase we could use the wildcard : ls [[:upper:]]*

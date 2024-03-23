@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+add_nums(){
+
+    sum=$(($1 + $2))
+    echo "The sum of $1 and $2 is $sum"
+}
+
+
+read -p "Enter two numbers:" a b
+add_nums $a $b
+echo "This runs first before function exec"

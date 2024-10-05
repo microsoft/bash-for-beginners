@@ -61,7 +61,7 @@ list_resource_groups() {
     az group list -o table
 }
 
-# setup
+setup
 check_region
 check_resource_group 
 create_resource_group

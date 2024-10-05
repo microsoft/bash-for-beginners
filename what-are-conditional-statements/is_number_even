@@ -1,6 +1,8 @@
 #!/bin/bash
 
-number=25
+# A script that will determine if a number is even
+
+number=20
 
 if [ $((number % 2)) -eq 0 ];
 then

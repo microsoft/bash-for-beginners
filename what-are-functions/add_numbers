@@ -2,7 +2,7 @@
 
 check_even () {
     local mod=2
-    echo "The value of mod is $mod"
+    echo "The value of mod is $mod inside of the function"
     if [ $(("$1" % $mod)) -eq 0 ]
     then 
        echo "The number $1 is even!";
@@ -15,4 +15,4 @@ check_even () {
 number=2344
 
 check_even $number
-echo $mod
+echo "The value of mod is $mod outside of the function"

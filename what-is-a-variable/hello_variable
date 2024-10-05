@@ -1,5 +1,9 @@
 #!/bin/bash
 
-# Welcome to your first Bash Script
+# A script that will print out a message from a variable
 
-echo 'Hello World!'
+hello_message='Hello World!'
+current_dir=$(pwd)
+readonly variable_wont_change="green"
+variable_wont_change="red"
+echo "$hello_message from $current_dir your favorite color is $variable_wont_change"

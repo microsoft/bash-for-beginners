@@ -1,1 +1,10 @@
 ls: cannot access './dir': No such file or directory
+total 24
+-rw-rw-rw- 1 vscode root  53 Apr 14 07:47 error.txt
+-rw-rw-rw- 1 vscode root 390 Apr 11 07:45 output2.txt
+-rw-rw-rw- 1 vscode root 862 Apr 14 07:43 output.txt
+-rw-rw-rw- 1 vscode root 677 Apr 11 07:45 paragrah.txt
+-rw-rw-rw- 1 vscode root 415 Apr 11 07:45 part1.txt
+-rw-rw-rw- 1 vscode root 262 Apr 11 07:45 part2.txt
+-rw-rw-rw- 1 vscode root   0 Apr 14 07:43 part3.txt
+-rw-rw-rw- 1 vscode root   0 Apr 14 07:43 part4.txt

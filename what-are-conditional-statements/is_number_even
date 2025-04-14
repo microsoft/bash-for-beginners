@@ -1,6 +1,6 @@
 #!/bin/bash
 
-number=25
+number=15
 
 if [ $((number % 2)) -eq 0 ];
 then

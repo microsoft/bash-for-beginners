@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # A script that will ask for a number and print out a message depending on the value. 
+# ??? mean's the no of digit and if need to evaluate to the exact value use the value in ''(string) in case pattern.
 
 read -p "Enter a number: " n
 case $n in

@@ -1,0 +1,15 @@
+#touch creates a new empty file
+touch filename.txt
+
+# Using the output redirection operator (>) also creates an empty file. If the file already exists, it will be truncated (emptied) before being written to.
+>filename.txt
+
+# echo command:This method creates a file with content, using redirection. The string will be written to the file.
+echo 'Hello World!' >filename.txt
+
+#Cat:This command is typically used to display file content, but can also create a file and accept multi-line input.
+cat > filename.txt
+# Type your content here.
+# Press CTRL + D when you are done to save and exit.
+
+

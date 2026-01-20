@@ -2,4 +2,11 @@
 
 # Welcome to your first Bash Script
 
-echo 'Hello World!'
+#there are mainly 2 types of variables used here: 1)local variables 2)system variables
+# 1)local variables: these variables are made by the user for program and these have some limitation to use these variables.
+        name='microsoft'
+        echo $name
+# 2)system variables: these variables are predefined variables and can't change according to the usage.eg:$BASH,$BASH_VERSION,$HOME,$PWD
+      echo $BASH
+      echo $BASH_VERSION
+

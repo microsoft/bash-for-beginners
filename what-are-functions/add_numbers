@@ -15,4 +15,3 @@ check_even () {
 number=2344
 
 check_even $number
-echo $mod

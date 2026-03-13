@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# A script to loop through all .txt files in the current directory
+# and print their names. This demonstrates how for loops can be used
+# with file patterns in real-world scenarios.
+
+for file in *.txt
+do
+    echo "Found file: $file"
+done
